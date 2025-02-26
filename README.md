@@ -1,11 +1,2 @@
  # Customer-Sales-Analysis
-This repository contains SQL exercises focused on analyzing customer purchases, sales data, and product categories using JOINs, Aggregations, and Filtering techniques.
-
-📌 Key Queries Covered:
-
--Retrieve customer details with purchase history.
--Identify customers who have/haven't made purchases.
--Calculate total spending per customer.
--Analyze total sales per product category.
--Find the most frequently purchased products.
--Use INNER JOIN, LEFT JOIN, RIGHT JOIN, GROUP BY, and HAVING for data insights.
+This repository contains SQL exercises focused on analyzing customer purchases, sales data, and product categories using various techniques such as JOINs, Aggregations, and Filtering. The exercises include queries to retrieve customer details along with their purchase history, identify customers who have or haven't made purchases, and calculate total spending per customer. Additionally, they analyze total sales per product category and determine the most frequently purchased products. Key SQL concepts such as INNER JOIN, LEFT JOIN, RIGHT JOIN, GROUP BY, and HAVING are used to extract valuable data insights from the database
